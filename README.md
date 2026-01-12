@@ -1,1 +1,0 @@
-# veauly-clone
